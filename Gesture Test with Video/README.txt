@@ -1,0 +1,1 @@
+This folder contains a MATLAB script, gesture_video_test.m, which plots sEMG signals read by an Arduino Uno in real time. A video of a sample run is included.
